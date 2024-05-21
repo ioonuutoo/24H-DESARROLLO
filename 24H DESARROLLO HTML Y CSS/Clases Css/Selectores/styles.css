@@ -1,0 +1,10 @@
+li {    /*Podemos seleccionar por elemento*/
+    color: grey;   
+}
+
+.ingrediente-faltante {  /*Podemos seleccionar por clase o class*/
+    color: red;
+}
+#ingrediente-secreto { /*Podemos seleccionar por ID, solo un mismo nombre para cada ID*/
+    color: blue;           
+}   

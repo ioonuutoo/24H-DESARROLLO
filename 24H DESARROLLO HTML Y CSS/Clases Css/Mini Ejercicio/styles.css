@@ -1,0 +1,28 @@
+body {
+    background-color: cyan;
+    font-family: sans-serif;
+    
+}
+
+.card {
+    background-color: beige;
+    text-align: center;
+    width: 400px;
+    margin: auto;
+    margin-top: 20px;
+}
+h1 {
+    font-size: 35px;
+    padding-top: 10px;
+}
+h2 {
+    font-size: 25px;
+    font-weight: 100;
+    letter-spacing: 1.5px;
+}
+p {
+    font-size: 11px;
+    padding: 20px;
+    background-color: bisque;
+    text-align: justify;
+}

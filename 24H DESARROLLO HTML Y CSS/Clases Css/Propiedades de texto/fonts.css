@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "Montserrat";
+    src: url(fonts/static/Montserrat-Regular.ttf) format(truetype);
+    font-weight: 300; /* Puedes descargar fonts y poner un nombre a esa fuente, que tambien tendrás que poner en el styles.css*/
+    /* El format(truetype), es el formato de la fuente "ttf", simepre va bien ponerlo, para que la pagina cargue mas rapido*/
+
+}
+@font-face {
+    font-family: "Montserrat";
+    src: url(fonts/static/Montserrat-Bold.ttf);
+    font-weight: 800;
+    /* Para poder poner la misma fuente que has descargado en negrita tienes que enlazarlo tambien, y si quieres cambiar a negrita tienes que poner un rango de font-weight y asi cambiarlo en el styles.css*/
+}

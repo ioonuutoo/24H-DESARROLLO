@@ -1,0 +1,27 @@
+p {
+    color: red;
+    font-family: Montserrat;
+    font-size: 13px;
+    font-weight: 300;  /* Font-Weight: Bold, lo que hace es que nuestro texto se ponga en negrita*/
+    font-style: italic; /* Font-style: Italic, pone la frase o palabra en cursiva.*/
+    text-align: center;
+    text-align: justify; /*Text-align: Justify, hace que todo el texto termine en una linea recta, cuidado porque cambia el tamaño de los espacios para que llegue todas las lineas al mismo punto*/
+    line-height: 1.5; /* Define el espacio entre lineas*/
+    letter-spacing: 1.5px; /*Define el espacio entre letras*/
+    text-transform: uppercase; /*Text-Transform:    1.Uppercase- Define todo el texto en mayuscula
+    2.lowercase- Define todo el texto en minuscula
+    3.Capitalize- Hace que cada palabra Empieze en mayuscula*/ 
+}
+h1{ 
+    text-align: center; /* Text-align, puedes mover la etiqueta o el bloque para que se mueva a la izquierda, centro o derecha.*/
+    text-decoration: underline line-through; /*Text-decoration: 
+    1.underline- nos subraya el texto por debajo
+    2.overline- nos subraya el texto por encima
+    3.line-through- nos subraya la line en medio
+    Se puede utilizar mas de una en la etiqueta*/
+
+    
+}
+a{
+    text-decoration: none;
+}
